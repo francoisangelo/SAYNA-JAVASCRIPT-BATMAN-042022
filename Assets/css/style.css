@@ -1,0 +1,105 @@
+@font-face {
+    font-family: batman_font;
+    src: url("ssets/font-family/batman_font.fff");
+}
+
+.root{
+    --var-ad-color-yellow:#ffff00;
+    --var-ad-color-yellow1:#f8f184;
+    --var-ad-color-bleu:#19587d;
+    --var-ad-color-red:#b11313;
+    --var-ad-color-black:#0d0e09;
+    --var-ad-color-grey:#c4c4c4;
+    --var-ad-color-black1:#000000;
+    --var-ad-color-white:#ffffff;
+ }
+
+ .border-line{
+     border-top: 1.5px solid gray;
+     border-left: 2px solid gray;
+     border-right: 2px solid gray;
+     border-bottom: none;
+     margin-left: 7%;
+     margin-right: 7%;
+ }
+
+#navigation{
+    background-color: #5d1414;
+    background-size: 100%;
+    width: 100%;
+    border-bottom: none;
+    border-left: 2px solid gray;
+    border-right: 2px solid gray;
+    margin-left: 7%;
+    margin-top: none;
+    margin-bottom: none;
+    margin-right: 7%;
+}
+.text-center{
+text-align: justify;
+padding-top:20%;
+font-size: 1.2em;
+}
+#body-header{
+    background-image: url(../Illustrations/Home/Bathome1.png);
+    background-repeat:no-repeat;
+    background-size:100%;
+     height:1100px;
+     width: 100%;
+     color:#FFFFFF;
+}
+.voir-lien{
+    background-color: #5d1414;
+    padding: 10px 10px;
+    color: #FFFFFF;
+}
+
+.voir-heros{
+    padding:5px 30px 15px 30px;
+    text-decoration: none;
+    font-size:15px ;
+    margin:  20px;
+    color: white;
+    background: #ffffff6c;
+}
+.fleche_down{
+      padding-top: 300px;}
+      .image-scroll img{
+        padding: 10px;
+    }
+    .media {
+        width: 70px;
+    }
+    .image-scroll{
+        position: absolute;
+        top: 300px;
+        right:46px;
+        width: 200px;
+        padding:10px;
+    }
+    .section1, .section4{
+        text-align: justify;
+        color: #ffffff;
+        font-size: 25px;
+    }
+    .contenu{
+        background-color: #000000;
+        background-position: 100%;
+        background-repeat: no-repeat;
+        background-size: 100%;
+        width: 100%;
+    }
+    .section2 img, .section5 img{
+        display: none;
+        padding: 30px;
+        margin: 0;
+        width: 400px;
+        height: 600px;
+    }
+.js0{
+    position: relative;
+    left: -100%;}
+
+    .image-trois{
+        position: relative;
+        left: -80%;}
